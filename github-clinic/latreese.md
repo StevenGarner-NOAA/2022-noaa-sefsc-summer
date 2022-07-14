@@ -10,9 +10,14 @@ We can make words **bold** or *italic*.
 
 We can make lists – *note that lists need a carriage return before list items!*
 
+## Food I Like
+
 1. bananas
 2. tamales
 3. cakes
+4. veggies
+5. pies
+6. steak
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
