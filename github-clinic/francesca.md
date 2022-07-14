@@ -28,6 +28,8 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
+![image](https://user-images.githubusercontent.com/92118992/179058221-03fdee14-eb19-487c-8f18-65dd85e8675b.png)
+
 ## Your turn
 
 **Click the pencil to edit and make several commits as play around – what else can you change or add?**
